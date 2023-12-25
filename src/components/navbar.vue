@@ -20,7 +20,7 @@
         <router-link :to="{ name: 'blogs' }">Blogs</router-link> 
         <router-link :to="{ name: 'faqs' }">FAQs</router-link> 
         <router-link :to="{ name: 'contacts' }">Contacts</router-link> 
-         <router-link :to="{ name: 'contacts' }">I have an account. Log In</router-link> 
+         <router-link :to="{ name: 'login' }">I have an account. Log In</router-link> 
           <button class="px-8 py-3 bg-[#FFE6C4] text-black text-sm rounded-3xl">
               <router-link to="/register" target="_blank" class="text-black">
                 Create an account
