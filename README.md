@@ -1,4 +1,4 @@
-# google-authentication
+# Hannah App using Vue.js
 
 ## Project setup
 ```
